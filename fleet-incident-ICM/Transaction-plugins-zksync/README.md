@@ -1,4 +1,4 @@
-# Account Abstraction Plugins for transactions in Transport DAO
+# Account Abstraction Plugins for transactions in Transport DAO using zksync
 
 Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 
