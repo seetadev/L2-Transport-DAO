@@ -47,4 +47,12 @@ Atomic Swaps of Crypto using Predicates in Fuel: We are extending and adapting t
 
 5. Contract Management using Near and Near eco-system tools: Fleet license NFT registration module is to enable fleet owners, drivers to register their licenses as well as their registration details in a decentralized manner. An individual can be identified by his/her SSN and his organization or shop by Registry Number both of which for now are integers between 0 and 65535 (16 bit integers). Every SSN or individual is associated with an address of an individual Near (Aurora) account. account. We are developing our own NFT smart contract from the ground up following Near eco-system modules. We are also logging the identities of the vehicle license owners, their ids using exchange of unique identifiers powered by Near (Aurora).
 
+6. FVM enables us to use building blocks exposed through interfaces, enabling the construction of incident archiving solutions. This improves better outcomes for monitoring, incident reporting, precision logistics. We are using FVM for:
+
+Creating a Vehicle NFT on the FVM for NFC tags of service and repair providers to improve incident management, decentralized NFT-based voting system for contract work by service providers, Votes are uploaded to IPFS with the most recent vote linking to one before. Please visit https://github.com/seetadev/PolyOps/tree/main/incidentalarmstorage/nft-gen-drones-nfc-tags
+
+Decentralized NFT-based voting system for contract work for service & maintenance providers and companies and Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
+
+To develop and use composable blocks and ensure effective design, engineering and delivery of a decentralized solution for vehicle monitoring and incident management using Ethereum & Filecoin eco-system tools. Automated Workflow for decentralized voting for service providers and DAO.
+
 
