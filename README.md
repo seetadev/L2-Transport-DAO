@@ -49,7 +49,7 @@ Atomic Swaps of Crypto using Predicates in Fuel: We are extending and adapting t
 
 6. FVM enables us to use building blocks exposed through interfaces, enabling the construction of incident archiving solutions. This improves better outcomes for monitoring, incident reporting, precision logistics. We are using FVM for:
 
-Creating a Vehicle NFT on the FVM for NFC tags of service and repair providers to improve incident management, decentralized NFT-based voting system for contract work by service providers, Votes are uploaded to IPFS with the most recent vote linking to one before. Please visit https://github.com/seetadev/PolyOps/tree/main/incidentalarmstorage/nft-gen-drones-nfc-tags
+Creating a Vehicle NFT on the FVM for NFC tags of service and repair providers to improve incident management, decentralized NFT-based voting system for contract work by service providers, Votes are uploaded to IPFS with the most recent vote linking to one before. 
 
 Decentralized NFT-based voting system for contract work for service & maintenance providers and companies and Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
 
