@@ -1,0 +1,3 @@
+target
+project/contracts/DAO-contract/out
+project/contracts/DAO-contract/tests/artifacts/gov_token/out
