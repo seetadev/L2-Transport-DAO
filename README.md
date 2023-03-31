@@ -1,4 +1,4 @@
-# L2 Transport DAO
+# Transport ICM
 
 Developer tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents using L2 layer and Ethereum, Near Web3 tools.
 
@@ -12,26 +12,7 @@ Supporting Materials: https://drive.google.com/drive/u/3/folders/1Z2cmofFOwCRlEl
 
 # Blockchain Eco-system
 
-1. Optimism: Optimism NFT marketplace devtooling for enabling sharing of government R&D assets and service/repair of transport assets. Also, Optimism NFT marketplace for NFC tags of UAVs for enabling sharing of government assets and service/repair of vital assets. We are extending and building the nft marketplace using lost and found NFT marketplace example templates built on Optimism.  This enables improving Data Transparency in transport management, fleet monitoring and early stage detection and prevention of accidents. NFT creator smart contract at OP Bedrock testnet at https://goerli-optimism.etherscan.io/address/0x1d807750029b3b345052b155123908968298bb9e. Screenshots of OP testnet deployment, bootstrapping Mainnet deployment at https://drive.google.com/drive/u/3/folders/1WXrAsl_dQMMZEQAi4KLzdt7uh6f-k_X4.
-
-Link: https://github.com/seetadev/L2-Transport-DAO/tree/main/nft-market-tooling/transport-assets-nft-marketplace
-
-Features in Progress:
-- Attestation Hub Contract for Fleet Incident Reports: We are extending the Attestation Station smart contract to develop the Attestation Hub smart contract for Fleet Incident Reports.
-
-- Giving free Optimism transactions to citizen developers, journalists, volunteers sharing anonymized report or incident data: We are extending OpenGSN to enable 0 Optimism transaction fees for volunteers sharing anonymized report data using PyTorch or Scikit libraries.
-
-Bootstrapping OP testnet and Mainnet deployment: https://drive.google.com/drive/u/3/folders/1WXrAsl_dQMMZEQAi4KLzdt7uh6f-k_X4
-
-
-
-2. UMA + SuperFluid: We are using UMA's KPI options + Superfluid as a token streaming protocol that lets vehicle users and consumers create streams of tokens fluidly between addresses. This will enable effective incentivization, management and communication setup for service/repair organizations utilized in Operations and Maintenance. We are extending UMA’s KPI Options with Superfluid’s streaming tokens: Perpetual Conditional Rewards (PCR) tokens that combine Superfluid’s programmable cashflows with UMA’s KPI option concepts. Service Users and administrators would receive immediate benefits and feedback based on how that KPI was doing. Immediate feedback like this would be highly motivating.
-
-https://github.com/seetadev/L2-Transport-DAO/tree/main/analytics-tooling/uma-superfluid-pcr
-
-
-
-3. Account Abstraction plugins for Transport DAO using zksync: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
+1. Account Abstraction plugins for Transport DAO using zksync: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 
 Implementation areas of Account Abstraction plugins in Transport DAO using zksync:
 
@@ -47,6 +28,23 @@ We are trying to implement the zksync plugins with SocialCalc in pancea wallet. 
 
 Bootstrapping zksync's AAP plugins: https://drive.google.com/drive/u/3/folders/1p_N7n3kTyx3DEKcaCT1C-2FcVi6aJgB3
 
+
+
+2. UMA + SuperFluid: We are using UMA's KPI options + Superfluid as a token streaming protocol that lets vehicle users and consumers create streams of tokens fluidly between addresses. This will enable effective incentivization, management and communication setup for service/repair organizations utilized in Operations and Maintenance. We are extending UMA’s KPI Options with Superfluid’s streaming tokens: Perpetual Conditional Rewards (PCR) tokens that combine Superfluid’s programmable cashflows with UMA’s KPI option concepts. Service Users and administrators would receive immediate benefits and feedback based on how that KPI was doing. Immediate feedback like this would be highly motivating.
+
+https://github.com/seetadev/L2-Transport-DAO/tree/main/analytics-tooling/uma-superfluid-pcr
+
+
+3. Optimism: Optimism NFT marketplace devtooling for enabling sharing of government R&D assets and service/repair of transport assets. Also, Optimism NFT marketplace for NFC tags of UAVs for enabling sharing of government assets and service/repair of vital assets. We are extending and building the nft marketplace using lost and found NFT marketplace example templates built on Optimism.  This enables improving Data Transparency in transport management, fleet monitoring and early stage detection and prevention of accidents. NFT creator smart contract at OP Bedrock testnet at https://goerli-optimism.etherscan.io/address/0x1d807750029b3b345052b155123908968298bb9e. Screenshots of OP testnet deployment, bootstrapping Mainnet deployment at https://drive.google.com/drive/u/3/folders/1WXrAsl_dQMMZEQAi4KLzdt7uh6f-k_X4.
+
+Link: https://github.com/seetadev/L2-Transport-DAO/tree/main/nft-market-tooling/transport-assets-nft-marketplace
+
+Features in Progress:
+- Attestation Hub Contract for Fleet Incident Reports: We are extending the Attestation Station smart contract to develop the Attestation Hub smart contract for Fleet Incident Reports.
+
+- Giving free Optimism transactions to citizen developers, journalists, volunteers sharing anonymized report or incident data: We are extending OpenGSN to enable 0 Optimism transaction fees for volunteers sharing anonymized report data using PyTorch or Scikit libraries.
+
+Bootstrapping OP testnet and Mainnet deployment: https://drive.google.com/drive/u/3/folders/1WXrAsl_dQMMZEQAi4KLzdt7uh6f-k_X4
 
 
 4. Fuel Labs: Enabling Transport DAO with Sway Contracts powered by Fuel Labs: We are utilizing DAO implementation using Sway smart contracts mainly for Government organizations, who would only prefer to use DAO tooling for providing government subsidies for greener fuel and pollution check credits. Government organizations can send crypto from source-chain to destination-chain and distribute it equally among all accounts specified for subsidy or reimbursement using call contract with token. Cross chain lending platform: We can supply collateral and borrow tokens from a satellite chain to a fork of Ethereum's mainnet using existing Compound Protocol. Smart contracts for DAO enablement and extension using Sway contracts powered by Fuel Labs. Please visit: https://github.com/seetadev/L2-Transport-DAO/tree/main/extending-features/DAO
