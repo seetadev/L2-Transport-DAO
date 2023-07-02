@@ -1,20 +1,22 @@
 # Transport DAO
 
-Developer tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents using L2 layer and Ethereum, Near Web3 tools.
+Developer tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents using Cardano, L2 layer and Ethereum, Near Web3 tools.
 
 Tracking Assets securely, transparently and cost effectively using Web3 eco-system tools
 
 
 Website: https://sites.google.com/view/l2-transport-dao/home?authuser=2
 
+Pitch Deck: 
+
 Supporting Materials: https://drive.google.com/drive/u/3/folders/1Z2cmofFOwCRlElRGFUBkRJKvE9Rc2mk6
 
 
 # Blockchain Eco-system
 
-1. Account Abstraction plugins for Transport DAO using zksync: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
+1. Account Abstraction plugins for Transport DAO using Cardano and zksync: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 
-Implementation areas of Account Abstraction plugins in Transport DAO using zksync:
+Implementation areas of Account Abstraction plugins in Transport DAO using Cardano and zksync:
 
 * Enforcing a spending limit for vital transport assets based on the key used for the transaction.
 
@@ -24,7 +26,7 @@ Implementation areas of Account Abstraction plugins in Transport DAO using zksyn
 
 Please visit https://github.com/seetadev/L2-Transport-DAO/tree/main/fleet-incident-ICM/Transaction-plugins-zksync (Account Abstraction plugins for Transport DAO using zksync with Hardhat backend) and https://github.com/seetadev/L2-Transport-DAO/tree/main/analytics-tooling/analytics-tooling-Eth/SocialCalc-zksync-AAP-plugins (rule and logic setting tool) 
 
-We are trying to implement the zksync plugins with SocialCalc in pancea wallet. Please visit https://drive.google.com/drive/u/3/folders/1ZGBIXRSbjkgYI3Dixz5YcJn-Pn9ko3uD . We wish to utilize the zksync's Account Abstraction plugins integrated in crypto wallets in the Transport DAO project. This could be especially useful for Government organizations, who would only prefer to use DAO tooling for providing government subsidies for greener fuel and pollution check credits.
+We are trying to implement the Cardano and zksync plugins with SocialCalc in pancea wallet. Please visit https://drive.google.com/drive/u/3/folders/1ZGBIXRSbjkgYI3Dixz5YcJn-Pn9ko3uD . We wish to utilize the zksync's Account Abstraction plugins integrated in crypto wallets in the Transport DAO project. This could be especially useful for Government organizations, who would only prefer to use DAO tooling for providing government subsidies for greener fuel and pollution check credits.
 
 Bootstrapping zksync's AAP plugins: https://drive.google.com/drive/u/3/folders/1p_N7n3kTyx3DEKcaCT1C-2FcVi6aJgB3
 
