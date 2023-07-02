@@ -11,11 +11,11 @@ Pitch Video: https://www.youtube.com/watch?v=Jh_AFWc_kKI&t=3s
 
 Pitch Deck: https://drive.google.com/drive/u/4/folders/1jGTQk-92ciPZ3eRF8GlgQ9h8PkGusiug
 
-White paper: https://drive.google.com/drive/u/4/folders/1HBt7zvU3GnyIoChFReh6d6u11dk7TejC
-
 Demos: https://drive.google.com/drive/u/4/folders/1o-buzIQwT-HuEfh7n5kUG8FhcKBppM65
 
 Supporting Materials: https://drive.google.com/drive/u/3/folders/1Z2cmofFOwCRlElRGFUBkRJKvE9Rc2mk6
+
+Supporting Research paper: https://drive.google.com/drive/u/4/folders/1HBt7zvU3GnyIoChFReh6d6u11dk7TejC
 
 
 # Blockchain Eco-system
